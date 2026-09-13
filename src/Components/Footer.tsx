@@ -17,16 +17,8 @@ const Footer = () => {
                         value="Github"
                         className="btn rounded-[5px]"
                     />
-                    <input
-                        type="reset"
-                        value="Twitter"
-                        className="btn rounded-[5px]"
-                    />
-                    <input
-                        type="reset"
-                        value="LinkedIn"
-                        className="btn rounded-[5px]"
-                    />
+                    <input type="reset" value="Twitter"className="btn rounded-[5px]"/>
+                    <input type="reset" value="LinkedIn" className="btn rounded-[5px]"/>
                 </div>
 
                 <div className='mt-10 mb-5'>
