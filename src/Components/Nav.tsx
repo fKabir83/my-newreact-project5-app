@@ -4,7 +4,7 @@ import Logo from "../assets/logo-text.png";
 
 const Nav = () =>{
     return (
-            <nav className='bg-amber-50 pt-5 pb-5'>
+            <nav className='bg-gray-50 pt-5 pb-5'>
                 <div className=' max-auto flex justify-around'>
                   <img src={Logo} alt="logo-text"/>
                   

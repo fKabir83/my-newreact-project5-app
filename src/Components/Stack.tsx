@@ -503,12 +503,11 @@ const Stack = () => {
             Your selected technology will appear here.
           </p>
 
-          <button className="mt-6 w-full rounded-[15px] bg-black py-3 text-white">
-            Click Here
+          <button className="mt-6 w-full rounded-[15px] text-black rounded-[10px] border border-red-300 bg-white p-1 font-semibold">
+            Remove All
           </button>
         </div>
       </div>
-
     </div>
   );
 };
