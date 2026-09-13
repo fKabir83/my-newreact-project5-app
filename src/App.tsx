@@ -1,5 +1,6 @@
 import './App.css'
 import Nav from './Components/Nav'
+import Banner from './Components/Banner'
 
 function App() {
  
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
       <Nav />
+      <Banner/>
       
     
     </>

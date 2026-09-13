@@ -15,10 +15,10 @@ const Nav = () =>{
                    <li>About</li>
                    <li>Contact</li>
                  </ul>
-        
+
                         <div>
-                           <input type="reset" value="Sign In" className="btn" />
-                           <button className="btn btn-secondary">Sign Up</button>
+                           <input type="reset" value="Sign In" className="btn rounded-[5px]" />
+                           <button className="btn btn-secondary rounded-[25px]">Sign Up</button>
                         </div>
                 </div>
         </nav>
