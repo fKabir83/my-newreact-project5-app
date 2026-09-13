@@ -1,6 +1,7 @@
 import './App.css'
 import Nav from './Components/Nav'
 import Banner from './Components/Banner'
+import Explore from './Components/Explore'
 
 function App() {
  
@@ -9,6 +10,7 @@ function App() {
     <>
       <Nav />
       <Banner/>
+      <Explore/>
       
     
     </>
